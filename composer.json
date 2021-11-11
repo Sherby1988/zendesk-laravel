@@ -19,7 +19,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/TickFitness/zendesk_api_client_php"
+            "url": "https://github.com/Sherby1988/zendesk_api_client_php"
         }
     ],
     "extra": {
